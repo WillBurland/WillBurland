@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 <h3 align="center">I'm a Computer Science with AI student and hobbyist programmer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=willburland&label=Profile%20views&color=0e75b6&style=flat" alt="willburland" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willburland&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" alt="willburland" /></a> </p>
-
-- 🔭 I’m currently working on my GPU based [Ray Tracer](https://github.com/WillBurland/OpenCL-Ray-Tracer) written in OpenCL
-
-- 🌱 I’m currently learning about methods to optimise GPU kernel execution.
-
-- 👨‍💻 All of my projects are available at [https://willburland.com/](https://willburland.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/willburland/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/willburland/" height="30" width="40" /></a>
